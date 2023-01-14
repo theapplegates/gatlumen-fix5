@@ -3884,7 +3884,6 @@ packages:
 
   /@types/sharp/0.31.1:
     resolution: {integrity: sha512-5nWwamN9ZFHXaYEincMSuza8nNfOof8nmO+mcI+Agx1uMUk4/pQnNIcix+9rLPXzKrm1pS34+6WRDbDV0Jn7ag==}
-    requiresBuild: true
     dependencies:
       '@types/node': 18.11.18
     dev: false
